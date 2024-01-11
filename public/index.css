@@ -154,7 +154,6 @@
 /* サイドバー全体のスタイル */
 .sidebar {
     background-color: #f2f2f2; /* 背景色 */
-    width: 250px; /* 幅 */
     padding: 20px; /* 内側の余白 */
 }
 
@@ -199,4 +198,21 @@
 }
 .circle-btn:hover {
     transform: scale(1.05, 1.05);
+}
+
+.sidebar {
+    position: fixed; /* サイドバーを固定 */
+    top: 2; /* 上端からの位置 */
+    left: 0; /* 左端からの位置 */
+
+    height: 100%; /* サイドバーの高さ */
+    overflow-y: auto; /* 縦スクロールを有効にする */
+    background-color: #f5f5f5; /* サイドバーの背景色 */
+}
+.sidebar.sidebar-closed {
+    transform: translateX(-100%); /* サイドバーを左に移動して非表示にする */
+}
+
+.sidebar.sidebar-open {
+    transform: translateX(0); /* サイドバーを表示 */
 }
