@@ -325,7 +325,7 @@
                                     <div class="custom-image-size">
                                         <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
                                     </div>
-                                    料理にコクや風味を追加し、魚や肉の臭みを消す調味料。<br>　
+                                    端から切り口が円形になるように切る切り方。料理内容により厚さを変える。<br>　
                             </div>
                             </a>
                         </div>
@@ -340,7 +340,7 @@
                                     <div class="custom-image-size">
                                         <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
                                     </div>
-                                    料理にコクや風味を追加し、魚や肉の臭みを消す調味料。<br>　
+                                    輪切りを二等分した切り方。輪切りでは大きすぎるときに使う。<br>　
                             </div>
                             </a>
                         </div>
@@ -355,7 +355,7 @@
                                     <div class="custom-image-size">
                                         <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
                                     </div>
-                                    料理にコクや風味を追加し、魚や肉の臭みを消す調味料。<br>　
+                                    輪切りを四等分した切り方。短時間で火が通りやすい。<br>　
                             </div>
                             </a>
                         </div>
@@ -370,7 +370,7 @@
                                     <div class="custom-image-size">
                                         <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
                                     </div>
-                                    料理にコクや風味を追加し、魚や肉の臭みを消す調味料。<br>　
+                                    細長い食材を直角に薄くに切る切り方。薬味などに使う。<br>　
                             </div>
                             </a>
                         </div>
@@ -385,7 +385,7 @@
                                     <div class="custom-image-size">
                                         <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
                                     </div>
-                                    料理にコクや風味を追加し、魚や肉の臭みを消す調味料。<br>　
+                                    端から薄く切っていく切り方。円形または半円のものを指すことが多い。<br>　
                             </div>
                             </a>
                         </div>
@@ -393,14 +393,14 @@
                     <div class="col-4">
                     <div class="card">
                             <div class="card-header">
-                                拍子切り
+                                拍子切り・短冊切り。
                             </div>
                             <div class="card-body">
                                 <a href="{{ route('ComingSoon') }}" class="no-underline text-dark">
                                     <div class="custom-image-size">
                                         <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
                                     </div>
-                                    料理にコクや風味を追加し、魚や肉の臭みを消す調味料。<br>　
+                                    四角柱の形に切る切り方。暑さが厚いものを拍子切り、薄いものを短冊切りと呼称される。<br>　
                             </div>
                             </a>
                         </div>
@@ -408,58 +408,14 @@
                     <div class="col-4">
                     <div class="card">
                             <div class="card-header">
-                                短冊切り
+                            細切り・千切り
                             </div>
                             <div class="card-body">
                                 <a href="{{ route('ComingSoon') }}" class="no-underline text-dark">
                                     <div class="custom-image-size">
                                         <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
                                     </div>
-                                    料理にコクや風味を追加し、魚や肉の臭みを消す調味料。<br>　
-                            </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-4">
-                    <div class="card">
-                            <div class="card-header">
-                                角切り・賽の目切り                            </div>
-                            <div class="card-body">
-                                <a href="{{ route('ComingSoon') }}" class="no-underline text-dark">
-                                    <div class="custom-image-size">
-                                        <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
-                                    </div>
-                                    料理にコクや風味を追加し、魚や肉の臭みを消す調味料。<br>　
-                            </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-4">
-                    <div class="card">
-                            <div class="card-header">
-                                千切り
-                            </div>
-                            <div class="card-body">
-                                <a href="{{ route('ComingSoon') }}" class="no-underline text-dark">
-                                    <div class="custom-image-size">
-                                        <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
-                                    </div>
-                                    料理にコクや風味を追加し、魚や肉の臭みを消す調味料。<br>　
-                            </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-4">
-                    <div class="card">
-                            <div class="card-header">
-                                千切り
-                            </div>
-                            <div class="card-body">
-                                <a href="{{ route('ComingSoon') }}" class="no-underline text-dark">
-                                    <div class="custom-image-size">
-                                        <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
-                                    </div>
-                                    料理にコクや風味を追加し、魚や肉の臭みを消す調味料。<br>　
+                                    薄くスライスした食材を細くカットする切り方。より細かいものは千切りと呼称される。<br>　
                             </div>
                             </a>
                         </div>
@@ -474,7 +430,7 @@
                                     <div class="custom-image-size">
                                         <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
                                     </div>
-                                    料理にコクや風味を追加し、魚や肉の臭みを消す調味料。<br>　
+                                    笹の葉の形のように切る切り方。細長いものを切るときに使い、柔らかな口当たりが特徴<br>　
                             </div>
                             </a>
                         </div>
@@ -498,21 +454,6 @@
                     <div class="card">
                             <div class="card-header">
                                 くし切り
-                            </div>
-                            <div class="card-body">
-                                <a href="{{ route('ComingSoon') }}" class="no-underline text-dark">
-                                    <div class="custom-image-size">
-                                        <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
-                                    </div>
-                                    料理にコクや風味を追加し、魚や肉の臭みを消す調味料。<br>　
-                            </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-4">
-                    <div class="card">
-                            <div class="card-header">
-                                細切り
                             </div>
                             <div class="card-body">
                                 <a href="{{ route('ComingSoon') }}" class="no-underline text-dark">
