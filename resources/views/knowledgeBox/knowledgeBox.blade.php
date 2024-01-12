@@ -336,7 +336,7 @@
                             <div class="card-body">
                                 <a href="{{ route('ComingSoon') }}" class="no-underline text-dark">
                                     <div class="custom-image-size">
-                                        <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
+                                        <img src="{{ asset('image/knowledge/ringcut.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
                                     </div>
                                     端から切り口が円形になるように切る切り方。料理内容により厚さを変える。<br>　
                             </div>
@@ -346,14 +346,14 @@
                     <div class="col-4">
                     <div class="card">
                             <div class="card-header">
-                                半月切り
+                                賽の目切り
                             </div>
                             <div class="card-body">
                                 <a href="{{ route('ComingSoon') }}" class="no-underline text-dark">
                                     <div class="custom-image-size">
-                                        <img src="{{ asset('image/knowledge/salt.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
+                                        <img src="{{ asset('image/knowledge/dicecut.jpg') }}" class="card-img-top custom-image-size d-flex justify-content-center">
                                     </div>
-                                    輪切りを二等分した切り方。輪切りでは大きすぎるときに使う。<br>　
+                                    さいころ状に切る切り方。<br>　
                             </div>
                             </a>
                         </div>
